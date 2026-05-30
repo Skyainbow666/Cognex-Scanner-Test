@@ -7,7 +7,8 @@
 - **核心依赖**：`NModbus` (可通过 NuGet 包管理器安装)
     
 - **硬件对接**：支持 Modbus TCP 协议的 Cognex DataMan 系列扫码枪
-    
+
+  <img width="794" height="481" alt="软件界面" src="https://github.com/user-attachments/assets/8eccc1d2-fbd5-4487-b896-35f4df035c0b" />
 
 ## 🚀 快速上手指南
 
